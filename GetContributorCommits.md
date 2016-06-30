@@ -19,7 +19,7 @@ https://api.github.com/repos/twbs/bootstrap/stats/contributors
 
 **回复：**
 
-```json
+```
 [
 	{
 		"total": <总commit数>,
@@ -45,7 +45,7 @@ https://api.github.com/repos/twbs/bootstrap/stats/contributors
 
 我们只需要抽取`author.login`、`author.url`和`total`就可以知道contributor的信息以及对应的commit数了。最后针对每个contributor都可以可以建立下面的JSON object。
 
-```json
+```
 {
 	"contributor": <author.login>,
 	"url": <author.url>,
