@@ -71,14 +71,14 @@ https://api.github.com/repos/twbs/bootstrap/stats/contributors
 
 >Contributions only count if they were made within the past year.
 
-1. 获得commit数的方法（和上文提到的一样）：
+-  获得commit数的方法（和上文提到的一样）：
 
 `https://api.github.com/repos/twbs/bootstrap/stats/contributors`
 
 >这数据和GitHub自带的Graph统计数据是一致的： 
 https://github.com/twbs/bootstrap/graphs/contributors
 
-2. 获得contribution数的方法：
+- 获得contribution数的方法：
 
 `https://api.github.com/repos/twbs/bootstrap/contributors?page=<number>`
 
