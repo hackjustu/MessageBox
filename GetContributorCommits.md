@@ -57,3 +57,29 @@ https://api.github.com/repos/twbs/bootstrap/stats/contributors
 
 最后，拿到这些数据以后，我们也可以做出这样的效果图。
 ![效果图](https://qph.ec.quoracdn.net/main-qimg-f2c410f9ac5119a1eb9c867c8b7a72e1?convert_to_webp=true)
+
+
+--- 
+**commit和contribution的区别**
+
+在统计项目贡献时候，我们发现GitHub同时使用了`commit`数和`contribution`数两个不一样的指数。它们的[区别](https://help.github.com/articles/viewing-contributions-on-your-profile-page/)是：
+
+>On your profile page, certain actions count as contributions:
+- Committing to a repository's default branch or gh-pages branch.
+- Opening an issue.
+- Proposing a pull request.
+
+>Contributions only count if they were made within the past year.
+
+1. 获得commit数的方法（和上文提到的一样）：
+
+`https://api.github.com/repos/twbs/bootstrap/stats/contributors`
+
+>这数据和GitHub自带的Graph统计数据是一致的： 
+https://github.com/twbs/bootstrap/graphs/contributors
+
+2. 获得contribution数的方法：
+
+`https://api.github.com/repos/twbs/bootstrap/contributors?page=<number>`
+
+
