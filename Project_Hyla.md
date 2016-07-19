@@ -24,6 +24,16 @@ Comming soon...
   - repository的Proposal和README
 
 ### I/O
+- Input
+  - 太阁GitHub内部的优质项目
+  - 太阁GitHub内部的Geek
+  - 世界范围内的优质开源项目
+  - 世界范围内的Geek介绍
+- Output
+  - 太阁项目活跃度报告 (Weekly)
+  - 太阁Geek活跃度报告 (Weekly)
+  - Geek介绍 (Weekly)
+  - 开源项目介绍
 
 ### 运作模式
 Comming soon...
