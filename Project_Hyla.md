@@ -11,3 +11,19 @@
 - [ ] 明晰小组职责
 - [ ] 确定小组的I/O模式
 - [ ] 摸索小组的运作模式
+
+### 小组成员
+Comming soon...
+
+### 小组职责
+#### 维护太阁GitHub
+- member
+  - 新member的加入
+  - member的权限管理
+- repository
+  - repository的Proposal和README
+
+### I/O
+
+### 运作模式
+Comming soon...
