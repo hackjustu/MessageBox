@@ -30,10 +30,20 @@ Comming soon...
   - 世界范围内的优质开源项目
   - 世界范围内的Geek介绍
 - Output
-  - 太阁项目活跃度报告 (Weekly)
-  - 太阁Geek活跃度报告 (Weekly)
-  - Geek介绍 (Weekly)
-  - 开源项目介绍
+  - 内容
+    - 太阁项目活跃度报告 (Weekly)
+    - 太阁Geek活跃度报告 (Weekly)
+    - Geek介绍 (Weekly)
+    - 开源项目介绍
+  - 渠道
+    - 太阁微信公众号
+    - 长微博/微信图片
+    - Community网站
+      - 内嵌排名榜`iframe`
+      - post
 
 ### 运作模式
 Comming soon...
+
+## 小组Product
+- [太阁极客榜](https://bittiger-ranking.firebaseapp.com/)
