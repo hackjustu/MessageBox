@@ -42,6 +42,9 @@
 ### 运作模式
 Comming soon...
 
+### 小组LOGO
+![](./GitHubGroupLogo.png)
+
 ### 小组成员
 Comming soon...
 
