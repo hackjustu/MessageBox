@@ -29,8 +29,9 @@
 - Output
   - 内容
     - 太阁项目活跃度报告 (Weekly)
-    - 太阁Geek活跃度报告 (Weekly)
-    - Geek介绍 (Weekly)
+    - 太阁`GitHub账号`极客活跃度报告 (Weekly)
+    - 太阁`每期项目`极客活跃度报告（Weekly）
+    - 极客介绍 (Weekly)
     - 开源项目介绍
   - 渠道
     - 太阁微信公众号
